@@ -1,0 +1,20 @@
+{
+    "Author": "Christopher Mank",
+    "ContentSize": 2902,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/send-email-from-azure-automation-from-a-visual-studio-online-service-hook/master/Send-VsoEmail.ps1",
+    "DownloadCount": 1450,
+    "Id": "Send-Email-from-Azure-e7b49e16",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 567,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-6-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Using the Service Hook capability of Visual Studio Online and the Webhook capability of Azure Automation, you are now able to build rich integrations between the two products. This means endless possibilities for your DevOps endeavors.",
+    "Title": "Send Email from Azure Automation from a Visual Studio Online Service Hook",
+    "UpdatedDate": "2015-7-7T00:00:00",
+    "Url": "https://github.com/azureautomation/send-email-from-azure-automation-from-a-visual-studio-online-service-hook",
+    "UserTags": "Visual Studio, Azure Automation, Change Control"
+}
